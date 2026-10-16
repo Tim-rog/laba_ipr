@@ -11,3 +11,4 @@ git branch feat-auth
 git checkout feat-auth
 
 git commit -m "Swithed branch"
+git tag merge-1
